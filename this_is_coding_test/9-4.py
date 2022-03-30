@@ -3,7 +3,6 @@
 
 from collections import defaultdict
 
-
 # N, M = map(int, input().split()) # 1 <= N, M <= 100
 N, M = 4,2
 
