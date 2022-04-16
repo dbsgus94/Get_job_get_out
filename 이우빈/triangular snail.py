@@ -7,7 +7,6 @@ def solution(n: int) -> List[int]:
     arr = []
     for i in range(1, n+1):
         arr.append([0] * i)
-
     # 시작 좌표
     x, y = -1, 0 # 아래부터 내려가므로
     val = 1
