@@ -22,7 +22,7 @@ while True:
             else:
                 word_stack.append(word)
                 break 
-
+    print("woobni")
     if word_stack:
         print("no")
     else:
